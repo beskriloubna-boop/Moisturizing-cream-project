@@ -79,7 +79,8 @@ For dry skin, increase the richness by adding 2% cocoa butter or 0.5% hyaluronic
 For a soothing or calming cream, include 0.5% chamomile extract to reduce irritation and redness.  
 For a night cream, increase the oil phase by about three percent to achieve a thicker, more nourishing texture.
 
---## 7. Optional Variations
+--
+## 7. Optional Variations
 
 To adapt the base formula for different skin types, modify the ingredients as follows.
 
