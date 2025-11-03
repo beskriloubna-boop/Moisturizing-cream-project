@@ -59,3 +59,14 @@ Allow the emulsion to cool naturally to below 40°C. This is important because a
 If possible, check the pH of the final cream using pH strips or a meter. The ideal pH for skin application is between 5.0 and 6.0. If the pH is below 5.0, adjust slightly with a few drops of a diluted sodium hydroxide solution (0.1%). If it is above 6.0, adjust by adding a small amount of a diluted citric acid solution (0.1%).
 
 ---
+## 5. Packaging and Labeling
+
+Once the cream has cooled completely and reached a uniform consistency, pour it into sterilized jars or airless pump bottles. Seal the containers tightly to prevent air exposure and contamination. Label each container with the product name, batch number, manufacturing date, and expiration date. For home or educational formulations, a three- to six-month shelf life is recommended if stored in a cool, dry place away from direct sunlight.
+
+---
+
+## 6. Safety and Testing
+
+Always perform a patch test before full use. Apply a small amount of the finished product to the inside of your forearm and observe for 24 hours to check for irritation or allergic reactions. Discontinue use if redness or discomfort occurs. Keep all tools and surfaces sterile during preparation. Discard any cream that develops an unusual odor, color change, or separation.
+
+Avoid using metal utensils when working with essential oils, as they can sometimes react with metal surfaces. If natural extracts such as aloe vera or cucumber are added, store the finished product in a refrigerator and use it within three months.
