@@ -26,8 +26,6 @@ Finally, in the cool-down phase, include 1 gram of preservative such as phenoxye
 
 The total formula yields 100 grams of cream.
 
----
-
 
 
 
