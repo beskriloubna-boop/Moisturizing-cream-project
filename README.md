@@ -71,7 +71,6 @@ Always perform a patch test before full use. Apply a small amount of the finishe
 
 Avoid using metal utensils when working with essential oils, as they can sometimes react with metal surfaces. If natural extracts such as aloe vera or cucumber are added, store the finished product in a refrigerator and use it within three months.
 
---
 ## 7. Optional Variations
 
 To adapt the base formula for different skin types, modify the ingredients as follows.
