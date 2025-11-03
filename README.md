@@ -71,9 +71,9 @@ For a night cream, increase the oil phase by about three percent to achieve a th
 
 ---
 
-## 8. Summary
-
-This formulation demonstrates the process of creating a balanced oil-in-water emulsion suitable for general skincare. By maintaining correct temperature control, pH balance, and sanitation practices, you can produce a safe and stable moisturizer for educational or personal research use. Always label your products clearly and maintain good manufacturing hygiene.
+Bettaher Sheyma,Beskri Loubna,
+Saidani Fella,
+Fettal Malak
 
 ---
 
