@@ -1,6 +1,6 @@
 #  Natural Hydration Cream Project
 
-### 🧴 Description
+###  Description
 A simple experiment to make a natural moisturizing cream using safe, natural ingredients.  
 This project shows how emulsification helps mix oil and water to form a smooth, hydrating cream.
 
