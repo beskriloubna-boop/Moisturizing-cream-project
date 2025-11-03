@@ -51,3 +51,11 @@ Start by preparing the oil phase. In the first beaker, combine almond oil, shea 
 Next, prepare the water phase in the second beaker. Mix the distilled water, glycerin, and panthenol, and heat to the same temperature range (70°C to 75°C) so both phases are thermally balanced.
 
 Once both phases reach equal temperature, slowly pour the water phase into the oil phase while stirring continuously. Use a whisk or magnetic stirrer to maintain even mixing. Continue stirring for three to five minutes until the mixture begins to thicken and a smooth, uniform emulsion forms. Maintaining the temperature during this process helps create a stable and consistent texture.
+
+## 4. Cooling and Final Additions
+
+Allow the emulsion to cool naturally to below 40°C. This is important because adding preservatives or essential oils at higher temperatures may cause them to degrade or lose effectiveness. Once the mixture reaches 40°C or lower, add the preservative, vitamin E, and essential oil. Stir gently until all ingredients are evenly incorporated.
+
+If possible, check the pH of the final cream using pH strips or a meter. The ideal pH for skin application is between 5.0 and 6.0. If the pH is below 5.0, adjust slightly with a few drops of a diluted sodium hydroxide solution (0.1%). If it is above 6.0, adjust by adding a small amount of a diluted citric acid solution (0.1%).
+
+---
