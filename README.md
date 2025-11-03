@@ -1,4 +1,4 @@
-#  Natural Hydration Cream Project
+#  Natural Hydration Cream Project groupe 1
 
 ###  Description
 A simple experiment to make a natural moisturizing cream using safe, natural ingredients.  
